@@ -1,0 +1,19 @@
+联通git和github，以后自己学习的代码都丢上去，统一管理，形成技术学习路径
+
+1. 面向对象问题以及其他基本操作
+目标，再次Python比较基础的功能，查漏补缺
+ 可用资料：
+Effection Python 1-2章
+Github Python-100-Days day08-day13
+
+
+2. Python语言进阶
+目标：补充一些弹药，拓展一下边界
+可用资料
+Github Python-100-Days Day16~Day20 
+Effection Python 3-4章 
+
+3. Mysql在python中的使用
+
+
+4. 经济学package项目实战
