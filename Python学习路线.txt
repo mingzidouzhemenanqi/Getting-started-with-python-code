@@ -5,13 +5,17 @@
  可用资料：
 Effection Python 1-2章
 Github Python-100-Days day08-day13
+廖雪峰官方网站
+1.1 OOP基本用法（继承，多态）
+1.2 推导与代送
 
 
 2. Python语言进阶
 目标：补充一些弹药，拓展一下边界
 可用资料
 Github Python-100-Days Day16~Day20 
-Effection Python 3-4章 
+Effection Python 3-4章
+
 
 3. Mysql在python中的使用
 
