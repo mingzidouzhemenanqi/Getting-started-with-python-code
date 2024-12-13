@@ -32,4 +32,9 @@ vscode中git的使用（b站视频）。但是无法成功提交，一直转圈�
 正式学习怎么构建Python包，搞清楚了包，包里面的文件名，里面的函数名和类名的关系，以及如何把类和函数直接放到包的定增直接调用
 
 2024.12.14
-再次尝试github功能，穿几个新文件，和试用gitnore
+
+再次尝试github功能，
+
+1. 传了几个新文件
+2. 试用gitignorehu忽略文件和文件夹
+3. 报错Failed to connect to github.com port 443 after 21532 ms: Couldn't connect to server解决，修改代理端口为17890即可

@@ -1,0 +1,5 @@
+# .gitignore
+
+testgitignore.py
+
+/testgitignore
